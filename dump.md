@@ -1,12 +1,10 @@
- (need to organise/review this mess, separate out references/resources and organise those, separate out different ideas.)
-- bio controlled fx 
-- goal: intuitive control of sound from bio signals. somatic experiences -> music 
-- How can we add more ways to control/create sounds that don’t involve having to “multitask” using your hands to control many things at once? How can it be made more intuitive/natural extension that works with you rather than you working with it?  
-- Should it provide some sort of haptic feedback right away then too or something? Something to think about later temperature could be interesting too
-- Overall the goal is related to expression in a way that’s not as cognitively “effortful” \
+
+- Should it provide some sort of haptic feedback right away then too or something? 
+- Something to think about later temperature could be interesting too 
+- Overall the goal is related to expression in a way that’s not as cognitively “effortful” 
 - direct extension of physical expression , embodied cognition, somatic design, something about heidegger, more buzzword here,  idk i just want to make cool thing 
-- Effects feel like something you add on top after the fact, not something you “play” - i want to make the control of effects feel just as much a part of/extension of the instrument
-- can layer in more signals and map them to different effects over time, piece by piece like adding more detail to the sound (like that layered ambient texture shoegazey shit like mbv/airiel/isis( panopticon)/alcest/deafheaven maybe)
+- Effects feel like something you add on top after the fact, not something you “play” - i want to make the control of effects feel just as much a part of/extension of the instrument 
+- can layer in more signals and map them to different effects over time, piece by piece like adding more detail to the sound (like that layered ambient texture shoegazey shit like mbv/airiel/isis( panopticon)/alcest/deafheaven maybe) 
 - So I can split this into two things that I want to make: 
 - “expression” input. So this would be the sensor hardware, as in the actual breath band part if I decide to make that. Should be compatible to just plug and use in place of an expression pedal, so outputs a variable resistance across a TRS jack 
 - The effect(s) itself, should be able to be used just like any other pedal, could use my sensor expression input or whatever else you want, should be able to mix&match/customize the setup however you wanted. Input: instrument signal thru TS jack (need high input impedance), TRS expression input. Outputs affected signal. DC barrel jack for power (std. size/voltage so its usable. 9V) 
