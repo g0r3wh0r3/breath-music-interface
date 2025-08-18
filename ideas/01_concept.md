@@ -14,7 +14,7 @@ This page introduces the main idea of the project.
 - Overall the goal is related to expression in a way that’s not as cognitively “effortful” 
 - Direct extension of physical expression 
 ## project concept 
-There will be two parts to the setup, the sensor ([[input]]) and the effect that it controls ([[output]]).  The user should be able to map the sensor output to different effects. The first sensor we are making is a respiratory band. The user will wear the band around their belly or ribs, and as they inhale the band will stretch. The stretching of the band will generate a signal. We are starting with one sensor and hopefully will start building more to map to different effects over time. 
+There will be two parts to the setup, the sensor ([input](inputs/input.md)) and the effect that it controls ([output](outputs/output.md)).  The user should be able to map the sensor output to different effects. The first sensor we are making is a respiratory band. The user will wear the band around their belly or ribs, and as they inhale the band will stretch. The stretching of the band will generate a signal. We are starting with one sensor and hopefully will start building more to map to different effects over time. 
 ## technical 
 should be compatible to just plug and use in place of an expression pedal, so outputs a variable resistance across a TRS jack
 
