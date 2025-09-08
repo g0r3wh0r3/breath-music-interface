@@ -42,6 +42,9 @@ see papers in resources section
 body temp 
 temperature as feedback to the user, potentially? 
 
+### GI noise 
+
+
 ## output ideas 
 ### analog "reverb" 
 using bucket bridage set up a network of a bunch of feedback loops to create an analog sort of reverb effect 
