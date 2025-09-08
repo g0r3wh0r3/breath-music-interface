@@ -33,7 +33,7 @@ should be compatible to just plug and use in place of an expression pedal, so ou
 - if i get an off-the-shelf HR monitor it'll just give me a digital signal, like just the bpm? i think I might want the raw waveform tho am I going to have to make one myself? that could be fun . .
 
 ### Jaw EMG 
-clenching jaw muscles -> distortion++
+clenching jaw muscles -> distortion++ (or other muscles doesnt have to be jaw I guess). gestures or an entire shirt or vest with strain sensors to catch muscle movement could be cool too
 
 ### Skin conductivity 
 see papers in resources section 
@@ -80,6 +80,13 @@ https://www.sciencedirect.com/science/article/pii/S2352940724001112
 
 ### cool stuff other people made 
 https://zenodo.org/records/15028172\ 
+https://nime.org/proceedings/2025/nime2025_3.pdf 
+https://nime.org/proceedings/2025/nime2025_24.pdf
+https://nime.org/proceedings/2025/nime2025_58.pdf 
+https://nime.org/proceedings/2024/nime2024_18.pdf 
+https://www.researchgate.net/publication/302074116_The_Soma_Mat_and_Breathing_Light 
+https://dl.acm.org/doi/10.1145/3544548.3581294 
+
 
 
 
