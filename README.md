@@ -74,7 +74,8 @@ https://www.sciencedirect.com/science/article/pii/S2352940724001112
 [ultra clean 9V power supply](https://generalguitargadgets.com/wp-content/uploads/ultra_clean_ps_sc.gif )
 
 [understanging expression pedals](https://missionengineering.com/understanding-expression-pedals/)
- 
+ [spring reverb ref 1](https://www.schematicsforfree.com/files/Audio/Circuits/Musician/Delay%2C%20Chorus%2C%20Echo%2C%20Flangers%2C%20Width%20and%20Reverb/Echo/Solid%20State%20Reverb-Echo%20Circuits.pdf)
+ [spring reverb ref 2](https://www.amplifiedparts.com/tech-articles/spring-reverb-tanks-explained-and-compared?srsltid=AfmBOop1MLgL4l3lwisgmMtK2VJMJGx_ZDL9t-PqAz68iEk9vLFZLEBE) 
 
 ### respiratory inductance plethysmography 
 * whats used in medical devices for respiratory  monitoring 
