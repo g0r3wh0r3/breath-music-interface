@@ -23,7 +23,7 @@ There will be two parts to the setup, the sensor (the input) and the effect that
 ## technical 
 should be compatible to just plug and use in place of an expression pedal, so outputs a variable resistance across a TRS jack
 
-## input ideas 
+## other input ideas (potential future additions)
 ### Heart reate 
 - heart rate sensors work through photoplethysmography which detects changes in blood volume 
 - light shines on the skin, the amount that is reflected back is related to the blood volume 
