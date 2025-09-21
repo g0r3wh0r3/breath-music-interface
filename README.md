@@ -1,4 +1,3 @@
-
 # breath/music interface project 
 
 ## brief overview 
@@ -59,6 +58,13 @@ Could work well with breath sensor. There is a prof in BME (?? or SYDE?) who app
 Use the sensor's output as the seed to generate perlin noise, or for the other shaping parameters for it. For visual effects ([using perlin noise in sound design](https://lac.linuxaudio.org/2018/pdf/14-paper.pdf ))
 
 ## references/resources 
+### respiratory inductance plethysmography 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3545562/#sec2 
+please see above for how respiratory inductance plethysmography bands work!! particularly section 2 which describes how the sensing unit works. this is essentially what I want to build a diy version of, so this is important
+* whats used in medical devices for respiratory  monitoring 
+* [RIP](https://en.wikipedia.org/wiki/Respiratory_inductance_plethysmography#:~:text=Respiratory%20inductance%20plethysmography%20\(RIP\)%20is,coupled%20to%20the%20airway%20opening.) ([video](https://www.youtube.com/watch?v=vMgPrCn_1Uk))
+* Often it uses two bands, the thoracic which goes over your ribs/chest, and the abdominal which goes over your belly. Could be interesting to use both, especially for vocalists 
+
 ### materials 
 [polymeric nanocomposite-based wearable strain sensor](https://www.sciencedirect.com/science/article/pii/S2468519424001307)
 
@@ -76,11 +82,6 @@ https://www.sciencedirect.com/science/article/pii/S2352940724001112
 [understanging expression pedals](https://missionengineering.com/understanding-expression-pedals/)
  [spring reverb ref 1](https://www.schematicsforfree.com/files/Audio/Circuits/Musician/Delay%2C%20Chorus%2C%20Echo%2C%20Flangers%2C%20Width%20and%20Reverb/Echo/Solid%20State%20Reverb-Echo%20Circuits.pdf)
  [spring reverb ref 2](https://www.amplifiedparts.com/tech-articles/spring-reverb-tanks-explained-and-compared?srsltid=AfmBOop1MLgL4l3lwisgmMtK2VJMJGx_ZDL9t-PqAz68iEk9vLFZLEBE) 
-
-### respiratory inductance plethysmography 
-* whats used in medical devices for respiratory  monitoring 
-* [RIP](https://en.wikipedia.org/wiki/Respiratory_inductance_plethysmography#:~:text=Respiratory%20inductance%20plethysmography%20\(RIP\)%20is,coupled%20to%20the%20airway%20opening.) ([video](https://www.youtube.com/watch?v=vMgPrCn_1Uk))
-* Often it uses two bands, the thoracic which goes over your ribs/chest, and the abdominal which goes over your belly. Could be interesting to use both, especially for vocalists 
 
 ### cool stuff other people made 
 https://zenodo.org/records/15028172\ 
