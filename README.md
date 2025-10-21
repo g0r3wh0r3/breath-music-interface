@@ -1,7 +1,7 @@
 # breath/music interface project 
 
 ## brief overview 
-wearable sensor system that converts respiratory signals into analog control signals for guitar effects or synth systems, to have expressive and intuitive, hands-free control of sound. current stage: prototyping wearable inductance band sensor. 
+wearable sensor system that converts respiratory signals into analog control signals for guitar effects or synth systems, to have expressive and intuitive, hands-free control of sound. so effects feel like a natural extension of your body. current stage: prototyping wearable inductance band sensor. 
 
 ## instigating/driving problem
 - traditional instrument setups seem to mostly rely on hands and feet for playing instruments and controlling pedals/switches/knobs/etc. 
@@ -9,7 +9,8 @@ wearable sensor system that converts respiratory signals into analog control sig
 - and these methods of control are often limited, lacking more precise and expressive control 
 ## what i want to explore
 - what other inputs from our bodies could be used to control sound?  
-- how can we create channels for more nuanced control of more parameters, in a way that feels more organic/natural? less cognitively effortful? 
+- how can we create channels for more nuanced control of more parameters, in a way that feels more organic/natural? less cognitively effortful?
+- i'm particularly interested in breath because the idea of literally breathing life into your gear, your pedalboard breathing with you. and I want to do it entirely analog for this reason as well  
 
 ## project overview 
 There will be two parts to the setup, the sensor (the input) and the effect that it controls (the output).  The user should be able to map the sensor output to different effects. The first sensor we are making is a respiratory band. The user will wear the band around their belly or ribs, and as they inhale the band will stretch. The stretching of the band will generate a signal. We are starting with one sensor and hopefully will start building more to map to different effects over time. 
@@ -22,7 +23,7 @@ There will be two parts to the setup, the sensor (the input) and the effect that
 ## technical 
 should be compatible to just plug and use in place of an expression pedal, so outputs a variable resistance across a TRS jack
 
-## input ideas 
+## other input ideas (potential future additions)
 ### Heart reate 
 - heart rate sensors work through photoplethysmography which detects changes in blood volume 
 - light shines on the skin, the amount that is reflected back is related to the blood volume 
