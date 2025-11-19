@@ -28,7 +28,3 @@ What's left to do in the design:
 - once the full schematic is finished, order/gather whatever parts we need and start testing on breadboard to verify it actually works before ordering PCB 
 - try to find a domestic PCB fab that adheres to ethical/labour standards (?) 
 - also need a simple effect to test it with (I don't want to borrow a $100 pedal from someone to test my sensor on and accidentally fry it, can breadboard a simple effect)
-
-
-
-

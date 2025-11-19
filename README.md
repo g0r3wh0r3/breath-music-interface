@@ -56,7 +56,7 @@ What if the device could also give some sort of haptic feedback to the user?
 Could work well with breath sensor. There is a prof in BME (?? or SYDE?) who apparently has like 9000 extra LEDs  
 
 ### perlin noise 
-Use the sensor's output as the seed to generate perlin noise, or for the other shaping parameters for it. For visual effects ([using perlin noise in sound design](https://lac.linuxaudio.org/2018/pdf/14-paper.pdf ))
+Use the sensor's output as the seed to generate perlin noise, or for the other shaping parameters for it. For visual effects ([using perlin noise in sound design](https://lac.linuxaudio.org/2018/pdf/14-paper.pdf))
 
 ## references/resources 
 ### respiratory inductance plethysmography 
