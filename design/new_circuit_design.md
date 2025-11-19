@@ -22,7 +22,7 @@ I simulated the circuit in LTspice. I did a transient simulation for 1 second an
 I don't think that's how it's supposed to look. I expected to see oscillation at around 1 MHz, the initial weird stuff idk what causes that or what to do about it so I still think I need to learn more about how this circuit works to design it properly.  
 
 What's left to do in the design: 
-- finalse the oscillator design, picking suitable values for all components 
+- finalse the oscillator design, picking suitable values for all components. the capacitor values C1 and C2 will also be dependent on what the inductance of the coil is, so I need to figure that out. Been (over)thinking about the coil geometry and trying to simulate in COMSOL to figure out how I want to wind it (orientation, number of turns, etc.) but it keeps crashing because I think I'm setting up the parameters incorrectly idk 
 - figure out the PLL 
 - figure out both of the output modes  
 - once the full schematic is finished, order/gather whatever parts we need and start testing on breadboard to verify it actually works before ordering PCB 
